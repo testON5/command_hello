@@ -1,4 +1,4 @@
 // local update
-// For command line git tutorial
+// sts
 print("hello world test")
 print("hello world hotfix")
