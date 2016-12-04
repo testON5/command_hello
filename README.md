@@ -1,1 +1,1 @@
-userj 입니다.
+git study
